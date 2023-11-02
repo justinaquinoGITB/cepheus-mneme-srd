@@ -1,15 +1,14 @@
-# Cepheus Engine SRD
+# Cepheus Engine Mneme SRD
 
-Welcome to the Cepheus Engine System Reference Document, which outlines the core rules used by a Classic Era Science Fiction 2D6-Based Open Gaming System.
+Welcome to the Cepheus Engine Mneme System Reference Document, which outlines the core rules used by a Classic Era Science Fiction 2D6-Based Open Gaming System.
+Mneme is a variant of Cepheus Engine that focuses on Harder Scifi, as hard as it can be still manageable and approachable.  
 
-TEST 231102_justin
-TEST 231102_01_Justin
 
 This HTML version of the SRD is hosted online [here](https://justinaquinogitb.github.io/cepheus-mneme-srd/). You can also get the Cepheus Engine SRD and Vehicle Design System documents in PDF and modifiable DOCX format from [DriveThruRPG.com][dtrpg]. If you'd like a print copy, [Moon Toad Publishing][moontoad] offer [the rulebook print-on-demand][pod].
 
 Cepheus Engine and Samardan Press are trademarks of Jason "Flynn" Kemp
 
-## Credits
+## Credits ##
 **SRD Proofreading:** Jeff Hopper
 
 **Vehicle Design System Proofreading & Playtesting:** Richard Hazlewood, Omer G. Joel, Michael Johnson, Donavan Lambertus, Ian Stead
